@@ -1,6 +1,10 @@
 {
   "name": "lfgho-hack",
   "version": "0.1.0",
+  "author": {
+    "name": "Christian Deciga",
+    "email": "epiqgames@proton.me"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,6 +15,10 @@
   "dependencies": {
     "@aave/contract-helpers": "1.21.1",
     "@aave/math-utils": "1.21.1",
+    "@tanstack/query-core": "^5.17.15",
+    "add": "^2.0.6",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
     "connectkit": "^1.6.0",
     "ipfs-http-client": "^60.0.1",
     "next": "14.0.4",
@@ -19,8 +27,10 @@
     "react": "^18",
     "react-dom": "^18",
     "react-qr-reader-es6": "^2.2.1-2",
-    "viem": "^2.0.6",
-    "wagmi": "^2.2.0"
+    "tailwind-variants": "^0.1.20",
+    "viem": "^1.21.1",
+    "wagmi": "^1.4.12",
+    "yarn": "^1.22.21"
   },
   "devDependencies": {
     "@types/node": "^20",
