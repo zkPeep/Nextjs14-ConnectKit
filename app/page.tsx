@@ -3,6 +3,7 @@
 import { useModal, ConnectKitButton} from 'connectkit'
 import { useAccount, useDisconnect } from 'wagmi'
 
+
 export default function Home() {
   const { isConnected, address, isConnecting } = useAccount()
   const { setOpen } = useModal()
