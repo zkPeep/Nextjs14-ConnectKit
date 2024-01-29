@@ -1,9 +1,8 @@
 {
-  "name": "lfgho-smartwallet",
+  "name": "nextjs14-connectkit",
   "version": "0.1.0",
   "author": {
-    "name": "Christian Deciga",
-    "email": "epiqgames@proton.me"
+    "name": "Christian Deciga"
   },
   "private": true,
   "scripts": {
