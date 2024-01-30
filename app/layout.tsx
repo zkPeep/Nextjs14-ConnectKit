@@ -7,8 +7,8 @@ import { ConnectkitProvider } from './connectkit-provider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'LFGHO submission',
-  description: 'LFGHO hack - GHO',
+  title: 'Nextjs 14 + ConnectKit starter',
+  description: 'Nextjs 14 + ConnectKit',
 }
 
 export default function RootLayout({
