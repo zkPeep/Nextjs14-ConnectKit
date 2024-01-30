@@ -1,1 +1,1 @@
-## LFGHO-HACK 
+## [Nextjs](https://nextjs.org/) v14 (w/App Router) + [ConnectKit](https://family.co/)
