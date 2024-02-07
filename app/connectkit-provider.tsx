@@ -10,8 +10,8 @@ const config = createConfig(
     walletConnectProjectId: process.env.WALLETCONNECT_PROJECT_ID || "",
 
     
-    appName: 'LFGHO',
-    appDescription: 'LFGHO - Hack submission',
+    appName: 'Nextjs14 ConnectKit',
+    appDescription: 'Nextjs14 - ConnectKit',
     appUrl: 'https://family.co',
     appIcon: 'https://family.co/logo.png',
   }),
