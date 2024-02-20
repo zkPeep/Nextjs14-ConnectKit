@@ -8,3 +8,8 @@ Install dependencies
 yarn install
 
 ```
+Copy .env.example to .env.local
+
+Setup a [WalletConnect project ID](https://cloud.walletconnect.com/sign-in)
+
+
