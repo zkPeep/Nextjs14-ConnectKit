@@ -3,3 +3,8 @@
 This is a simple example of how to implement ConnectKit's Wallet connect functionality with [Next.js](https://nextjs.org/) App Router in TypeScript. 
 
 ## Getting started
+Install dependencies
+```sh
+yarn install
+
+```
